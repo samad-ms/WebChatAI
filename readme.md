@@ -48,14 +48,6 @@ WebChatAI is a Streamlit application that uses LangChain and OpenAI GPT-3.5 Turb
    - Enter the URL of the website you want to interact with in the sidebar.
    - Enter your query in the chat input field.
 
-## Example
-
-1. **Provide Website URL**:
-   ![Provide Website URL](images/url_input.png)
-
-2. **Ask Questions**:
-   ![Ask Questions](images/chat_example.png)
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to open a pull request or an issue.
