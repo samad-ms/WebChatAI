@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-v3.10-blue)
 ![OpenAI](https://img.shields.io/badge/OpenAI-v3.5-blue)
 ![Chroma Vector Database](https://img.shields.io/badge/Chroma-Vector%20Database-green)
-![LangChain](https://img.shields.io/badge/LangChain-Icon-green)
+![LangChain](https://img.shields.io/)
 ![Streamlit](https://img.shields.io/badge/Streamlit-v1.0.0-green)
 
 WebChatAI is a Streamlit application that uses LangChain and OpenAI GPT-3.5 Turbo model to create a conversational AI that interacts with websites. This application extracts information from a given website and answers user queries based on the extracted content.
